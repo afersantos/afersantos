@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋! Soy Alberto 👨🏻‍💻</h1>
-<h3 align="center">MSc en Ciencia de Datos | IA Enthusiast</h3>
+<h3 align="center">MSc en Ciencia de Datos | Entusiaste de la IA</h3>
 <h6 align="center">En mi GitHub podrás encontrar distintos repositorios con proyectos relacionados con la Ciencia de Datos</h6>
 
 ---
@@ -39,6 +39,6 @@
 
 ### 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alberto-fernandez-santos/)
+💼 [LinkedIn](https://www.linkedin.com/in/alberto-fernandez-santos/)
 
 ---
