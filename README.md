@@ -25,7 +25,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white&style=flat)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-5E8D7C?logo=python&logoColor=white&style=flat)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=flat)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-9458D8?logo=visualstudio&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-FFB400?logo=powerbi&logoColor=white&style=flat)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat)
