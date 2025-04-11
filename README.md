@@ -38,7 +38,10 @@
 ---
 
 ### 📫 Conecta conmigo
-
-💼 [LinkedIn](https://www.linkedin.com/in/alberto-fernandez-santos/)
+<p>
+   <a href="https://www.linkedin.com/in/alberto-fernandez-santos" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Linkedin-logo-blue-In-square-40px.png" alt="LinkedIn de Alberto Fernández Santos" height="40px" width="40px" />
+  </a>
+</p>
 
 ---
